@@ -1,0 +1,6 @@
+{
+  "name": "studyverse-backend",
+  "version": "1.0.0",
+  "description": "Serverless proxy API for StudyVerse — keeps the Groq API key server-side",
+  "private": true
+}
